@@ -1,0 +1,27 @@
+{
+  "name": "mercadoliebre-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliano1998/mercadoliebre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliano1998/mercadoliebre/issues"
+  },
+  "homepage": "https://github.com/giuliano1998/mercadoliebre#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  },
+  "devDependencies": {},
+  "description": ""
+ 
+
+}
